@@ -1,7 +1,8 @@
-Small project to create a lauch hub around TV programs from a TV channel
+Small project to create a launch hub around TV programs from a TV channel
 The program guide is retrived from http://services.vrt.be/epg/schedules/today?channel_code=O8 as a json file.
 A python script on appengine transform the json into HTML.
 The intention is to gain some experience with mobile webapps and responsive design.
 The HTML5 is derived from the mobile boilerplate: http://html5boilerplate.com/mobile
+The CSS3 button(s) is/are from http://net.tutsplus.com/tutorials/html-css-techniques/build-kick-ass-practical-css3-buttons/
 
 The documentation about the program guide can be found here: http://services.vrt.be/doc/
